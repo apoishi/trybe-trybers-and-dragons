@@ -1,13 +1,57 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Trybers and Dragons
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<details>
+  <summary markdown="span"><strong>:us: English</strong></summary><br />
+  
+## :page_with_curl: About
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+This is the eigth project of the Back-end curriculum developed at Trybe.
+
+In this project I applied the principles of SOLID architecture and OOP principles in a structure of role playing games, better known as RPG (Role Playing Game)
+<br />
+
+## :man_technologist: Skills
+
+* Understand Inheritance;
+* Understand Abstraction;
+* Understand Encapsulation;
+* Understand Polymorphism;
+
+<br />
+
+## :hammer_and_wrench: Tools
+
+* TypeScript
+* SOLID
+* OOP (Object Oriented Programming)
+
+</details>
+
+<details>
+  <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
+  
+## :page_with_curl: Sobre
+
+Esse é o oitavo projeto desenvolvido na Trybe do módulo de Back-end.
+
+Neste projeto apliquei os princípios de arquitetura SOLID e princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como RPG(Role Playing Game)
+<br />
+
+## :man_technologist: Habilidades
+
+* Entender Herança;
+* Entender Abstração;
+* Entender Encapsulamento;
+* Entender Poliformismo;
+
+
+<br />
+
+## :hammer_and_wrench: Ferramentas
+
+* TypeScript
+* SOLID
+* POO (Programação Orientada a Objetos)
+
+
+</details>
