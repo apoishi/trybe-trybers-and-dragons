@@ -12,6 +12,7 @@ In this project I applied the principles of SOLID architecture and OOP principle
 
 ## :man_technologist: Skills
 
+* Create classes, types and interfaces in TypeScript;
 * Understand Inheritance;
 * Understand Abstraction;
 * Understand Encapsulation;
@@ -39,6 +40,7 @@ Neste projeto apliquei os princípios de arquitetura SOLID e princípios de POO 
 
 ## :man_technologist: Habilidades
 
+* Criar classes, tipos e interfaces em TypeScript;
 * Entender Herança;
 * Entender Abstração;
 * Entender Encapsulamento;
